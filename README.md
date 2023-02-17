@@ -1,2 +1,2 @@
 # git_test
-WHATS UP MOTHER LOVAS. EAST COAST 44 LYFE
+This is a test repository. Don't read too much into it. 
